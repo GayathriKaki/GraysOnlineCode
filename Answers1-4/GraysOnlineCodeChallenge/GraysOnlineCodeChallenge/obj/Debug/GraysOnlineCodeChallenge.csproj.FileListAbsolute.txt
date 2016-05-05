@@ -1,0 +1,7 @@
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\bin\Debug\GraysOnlineCodeChallenge.exe.config
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\bin\Debug\GraysOnlineCodeChallenge.exe
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\bin\Debug\GraysOnlineCodeChallenge.pdb
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\bin\Debug\Mathos.dll
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\obj\Debug\GraysOnlineCodeChallenge.csprojResolveAssemblyReference.cache
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\obj\Debug\GraysOnlineCodeChallenge.exe
+D:\gayathri\projects\GraysOnlineCodeChallenge\GraysOnlineCodeChallenge\obj\Debug\GraysOnlineCodeChallenge.pdb
